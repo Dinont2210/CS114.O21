@@ -1,18 +1,41 @@
-# CS114.O21
-# Name : Duong Viet Thang
-# MSSV : 21522586
-# 06/03/24
-'''
-Machine Translation :      không cover được các rules
-(Traditional Programming)  không code được
-- Image Classfication : Performance không cao --> Tiếp cận khác --> machine learning
-- Thay vì Programmer tìm rules --> lập trình để máy tính tìm rules
-- --> cung cấp máy tính dữ liệu huấn luyện( Trainning Data)
-'''
-# 13/03/24
-# Phan tich Supervised va UnSupervised Learning
-# Supervised : Classfication & Regression (label)
-# Regression --> real-value (Ex: Gia ck; giá nhà)
-# Classfication --> Giá trị rời rạc -> liệt kê
-# UnSupervised : Clustering
+<p align="center">
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: 5;">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+  </a>
+</p>
 
+<!-- Title -->
+<h1 align="center"><b>CS114.O21 - MÁY HỌC</b></h1>
+
+
+
+## BẢNG MỤC LỤC
+* [ Giới thiệu môn học](#gioithieumonhoc)
+* [Quá trình môn học](#quatrinh)
+* [ Giảng viên hướng dẫn](#giangvien)
+## GIỚI THIỆU MÔN HỌC
+<a name="gioithieumonhoc"></a>
+* **Tên môn học**: Máy học - MACHINE LEARNING
+* **Mã môn học**: CS114
+* **Lớp học**: CS114.O21.KHCL
+* **Ngày bắt đầu**: 19/02/2024
+* **Năm học**: 2023-2024
+## QUÁ TRÌNH MÔN HỌC
+<a name ="quatrinh"></a>
+### 1.LẬP TRÌNH PYTHON
+
+
+<a name ="colab"></a>
+### 2.COLAB ASSSIGNMENTS
+
+
+<a name ="QT"></a>
+### 3.QT IN CLASS
+
+## GIẢNG VIÊN HƯỚNG DẪN
+<a name="giangvien"></a>
+* PGS.TS. **Lê Đình Duy** - *duydl@uit.edu.vn*
+* ThS. **Phạm Nguyễn Trường An** - *truonganpn@uit.edu.vn*
+
+
+## ĐỒ ÁN MÔN HỌC
